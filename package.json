@@ -21,11 +21,20 @@
     "build:linux": "electron-vite build && electron-builder --linux"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.5.1",
     "@electron-toolkit/preload": "^3.0.1",
     "@electron-toolkit/utils": "^3.0.0",
+    "@monaco-editor/react": "^4.6.0",
+    "@react-spectrum/text": "^3.5.9",
+    "@react-spectrum/tree": "3.0.0-beta.1",
+    "@spectrum-icons/workflow": "^4.2.15",
+    "@tanstack/react-query": "^5.59.20",
+    "@tanstack/react-query-devtools": "^5.59.20",
     "antd": "^5.21.6",
     "axios": "^1.7.7",
-    "react-router-dom": "^6.27.0"
+    "json-edit-react": "^1.17.1",
+    "react-router-dom": "^6.27.0",
+    "react-stately": "^3.33.0"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config-prettier": "^2.0.0",

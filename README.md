@@ -1,14 +1,11 @@
-add foolowing tabs at top
+// todo
 
-product,
+- todo 5 : run
 
-libs
-vars indi
+// done
 
-accum
-struc
-runset
+- todo 1 : create
+- todo 2 : update, invalidate
+- todo 3 : delete, invalidate
 
-dimmension
-history
-runpair
+- todo 4 : detail - lib
